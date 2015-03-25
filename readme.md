@@ -1,5 +1,4 @@
-awesome-styleguides
-===================
+# Styleguides
 
 A list of styleguides
 
@@ -74,6 +73,9 @@ A list of styleguides
 * [Android](http://source.android.com/source/code-style.html)
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
 * [Sun](http://javascript.crockford.com/javacodeconventions.pdf)
+
+## iOS
+* [Code Samples](http://ioscodesamples.com/index.html)
 
 ## Lisp
 * [emacs-lips-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide)

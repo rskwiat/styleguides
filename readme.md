@@ -31,6 +31,12 @@ A list of styleguides
 
 ## HTML 
 * [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+* [Github](http://primercss.io/guidelines/#html)
+* [Code Guide @mdo](http://codeguide.co/)
+* [HTML5 Boilerplate](https://html5boilerplate.com/)
+
+## Accessibility
+* [Mozilla Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 
 ##Javascript
 * [AirBnB](https://github.com/airbnb/javascript)
@@ -40,6 +46,7 @@ A list of styleguides
 * [Joyent](https://www.joyent.com/developers/node/design)
 * [mattdesl](https://github.com/mattdesl/module-best-practices) _Only for javascript modules_
 * [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide)
+* [Recess - Property Order](https://github.com/twitter/recess/blob/master/lib/lint/strict-property-order.js)
 
 ## ReactJS
 * [ReactJS Patterns](https://reactjsnews.com/react-style-guide-patterns-i-like/)

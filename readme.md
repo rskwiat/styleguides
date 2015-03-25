@@ -23,6 +23,7 @@ A list of styleguides
 * [Wordpress.org](http://make.wordpress.org/core/handbook/coding-standards/css/)
 * [Heroku](http://purple.herokuapp.com/#)
 * [Recess](http://twitter.github.io/recess/)
+* [Structure and Organization](http://webdesignledger.com/tips/tips-for-organized-css-stylesheets)
 
 ### SASS
 * [CSS-Tricks](http://css-tricks.com/sass-style-guide/)
@@ -56,7 +57,7 @@ A list of styleguides
 
 ### EmberJS
 * [EmberJS](https://github.com/emberjs/ember.js/blob/master/STYLEGUIDE.md)
-* [EmberCLI](http://www.ember-cli.com/)
+* [EmberCLI Installer](http://www.ember-cli.com/)
 
 ### CoffeeScript
 * [Polarmobile](https://github.com/polarmobile/coffeescript-style-guide)
@@ -66,6 +67,10 @@ A list of styleguides
  
 ### JSON
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/jsoncstyleguide.xml)
+
+## Gulp
+
+## Grunt
 
 # Backend
 
@@ -79,6 +84,14 @@ A list of styleguides
 
 ## Lisp
 * [emacs-lips-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide)
+
+## Express
+* [Express Main Site](http://expressjs.com/)
+* [Express API](http://expressjs.com/4x/api.html)
+* [NPM Express App Generator](http://expressjs.com/starter/generator.html)
+* 
+
+## nGinx
 
 ## Objective-C
 * [GitHub](https://github.com/github/objective-c-style-guide)

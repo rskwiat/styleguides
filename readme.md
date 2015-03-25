@@ -89,9 +89,11 @@ A list of styleguides
 * [Express Main Site](http://expressjs.com/)
 * [Express API](http://expressjs.com/4x/api.html)
 * [NPM Express App Generator](http://expressjs.com/starter/generator.html)
-* 
+* [Express Security Tips](http://webapplog.com/express-js-security-tips/)
 
 ## nGinx
+* [Personal Configurations](https://gist.github.com/rskwiat/6652504)
+* 
 
 ## Objective-C
 * [GitHub](https://github.com/github/objective-c-style-guide)
@@ -102,6 +104,7 @@ A list of styleguides
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
 * [PEP 8 Offical Style Guide for Python](http://legacy.python.org/dev/peps/pep-0008/)
 * [PEP 257 - Docstring Conventions](http://legacy.python.org/dev/peps/pep-0257/)
+* [Fabric - Basic Connect Script](https://gist.github.com/rskwiat/bcae3826748a5646abf6)
 
 ## Ruby
 * [bbatsov](https://github.com/bbatsov/ruby-style-guide)

@@ -129,3 +129,22 @@ A list of styleguides
 * [Sketch Tricks](https://medium.com/sketch-tricks)
 * [Sketch Land](http://sketch.land/)
 * [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory)
+
+# Subreddits
+*[r/webdev](http://www.reddit.com/r/webdev)
+*[r/javascript](http://www.reddit.com/r/javascript)
+*[r/node](http://www.reddit.com/r/node)
+*[r/web_design](http://www.reddit.com/r/web_design)
+*[r/userexperience](http://www.reddit.com/r/userexperience)
+*[r/css](http://www.reddit.com/r/css)
+*[r/jquery](http://www.reddit.com/r/jquery)
+*[r/HTML5](http://www.reddit.com/r/HTML5)
+*[r/web_development](http://www.reddit.com/r/web_development)
+*[r/webapps](http://www.reddit.com/r/webapps)
+*[r/design](http://www.reddit.com/r/design)
+*[r/wordpress](http://www.reddit.com/r/wordpress)
+*[r/python](http://www.reddit.com/r/python)
+*[r/dailyprogrammer](http://www.reddit.com/r/dailyprogrammer)
+*[r/devops](http://www.reddit.com/r/devops)
+*[r/programmerhumor](http://www.reddit.com/r/programmerhumor)
+

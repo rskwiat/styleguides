@@ -84,6 +84,9 @@ A list of styleguides
 * [Scotch.io Gulp Tutorial](https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js)
 
 ## Grunt
+* [Getting Start Guide](http://gruntjs.com/getting-started)
+* [Best Practices](http://www.marioaraque.com/grunt-tips-best-practices)
+* [Pony Foo Best Practices](http://ponyfoo.com/articles/grunt-tips-and-tricks)
 
 # Backend
 
@@ -118,6 +121,7 @@ A list of styleguides
 * [PEP 8 Offical Style Guide for Python](http://legacy.python.org/dev/peps/pep-0008/)
 * [PEP 257 - Docstring Conventions](http://legacy.python.org/dev/peps/pep-0257/)
 * [Fabric - Basic Connect Script](https://gist.github.com/rskwiat/bcae3826748a5646abf6)
+* [Tango with Django](http://www.tangowithdjango.com)
 
 ## Ruby
 * [bbatsov](https://github.com/bbatsov/ruby-style-guide)
@@ -153,4 +157,6 @@ A list of styleguides
 *[r/dailyprogrammer](http://www.reddit.com/r/dailyprogrammer)
 *[r/devops](http://www.reddit.com/r/devops)
 *[r/programmerhumor](http://www.reddit.com/r/programmerhumor)
+*[r/reactjs](http://www.reddit.com/r/reactjs)
+*[r/emberjs](http://www.reddit.com/r/emberjs)
 

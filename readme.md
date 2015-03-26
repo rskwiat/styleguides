@@ -99,7 +99,8 @@ A list of styleguides
 * [Sun](http://javascript.crockford.com/javacodeconventions.pdf)
 
 ## iOS
-* [Code Samples](http://ioscodesamples.com/index.html)
+* [Cocoa Pods](http://cocoapods.org/)
+* [Cocoa Controls](https://www.cocoacontrols.com/)
 
 ## Lisp
 * [emacs-lips-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide)

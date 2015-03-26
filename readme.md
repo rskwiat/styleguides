@@ -13,6 +13,7 @@ A list of styleguides
 
 ## Generic
 * [Frontend Guidelines](https://github.com/bendc/frontend-guidelines)
+* [Baseline for FE Devs](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/)
 
 ## CSS
 * [CSSWizardry](http://csswizardry.com/2012/04/my-html-css-coding-style/)

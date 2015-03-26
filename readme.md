@@ -12,7 +12,7 @@ A list of styleguides
 # Front End
 
 ## Generic
-* [frontend-guidelines[(https://github.com/bendc/frontend-guidelines)
+* [Frontend Guidelines](https://github.com/bendc/frontend-guidelines)
 
 ## CSS
 * [CSSWizardry](http://csswizardry.com/2012/04/my-html-css-coding-style/)
@@ -38,7 +38,7 @@ A list of styleguides
 ## Accessibility
 * [Mozilla Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 
-##Javascript
+## Javascript
 * [AirBnB](https://github.com/airbnb/javascript)
 * [bevacqua's JS sg](https://github.com/bevacqua/js)
 * [GitHub](https://github.com/styleguide/javascript/1.0)
@@ -51,7 +51,11 @@ A list of styleguides
 ## ReactJS
 * [ReactJS Patterns](https://reactjsnews.com/react-style-guide-patterns-i-like/)
 * [Getting Started Guides](http://facebook.github.io/react/docs/getting-started.html)
-* 
+* [Tyler McGinnis Tutorial](http://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
+* [React Practices and Conventions](https://web-design-weekly.com/2015/01/29/opinionated-guide-react-js-best-practices-conventions/)
+* [JS Fiddle Demo](http://jsfiddle.net/reactjs/69z2wepo/)
+* [Flux Overview](http://facebook.github.io/flux/docs/overview.html)
+* [Scotch.io React Tutorial](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
 
 ### AngularJS
 * [gocardless](https://github.com/gocardless/angularjs-style-guide)
@@ -76,6 +80,8 @@ A list of styleguides
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/jsoncstyleguide.xml)
 
 ## Gulp
+* [Getting Start with Gulp](http://travismaynard.com/writing/getting-started-with-gulp)
+* [Scotch.io Gulp Tutorial](https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js)
 
 ## Grunt
 

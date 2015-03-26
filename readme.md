@@ -45,6 +45,7 @@ A list of styleguides
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 * [Joyent](https://www.joyent.com/developers/node/design)
 * [mattdesl](https://github.com/mattdesl/module-best-practices) _Only for javascript modules_
+* [Code Cademy Glossary](http://www.codecademy.com/glossary/javascript/)
 * [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide)
 * [Recess - Property Order](https://github.com/twitter/recess/blob/master/lib/lint/strict-property-order.js)
 

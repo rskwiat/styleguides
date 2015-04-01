@@ -8,6 +8,7 @@ A list of styleguides
 #### Other Styleguide Lists
 * [Narkoz](https://github.com/narkoz/guides)
 * [Styleguides.io](https://github.com/maban/styleguides)
+* [Free for Dev](https://github.com/ripienaar/free-for-dev)
 
 # Front End
 

@@ -145,6 +145,10 @@ A list of styleguides
 * [Sketch Land](http://sketch.land/)
 * [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory)
 
+# Static Site Generators
+* [Winter Smith](http://wintersmith.io/)
+* [Assemble](http://assemble.io/)
+
 # Subreddits
 * [r/webdev](http://www.reddit.com/r/webdev)
 * [r/javascript](http://www.reddit.com/r/javascript)

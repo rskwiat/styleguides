@@ -92,6 +92,12 @@ A list of styleguides
 * [Best Practices](http://www.marioaraque.com/grunt-tips-best-practices)
 * [Pony Foo Best Practices](http://ponyfoo.com/articles/grunt-tips-and-tricks)
 
+## Webpack
+* [Instagram's best Practices](https://github.com/petehunt/webpack-howto)
+
+# Testing
+* [WebDriver and Selenium Talk - Matthew Smith](https://www.youtube.com/watch?v=mZOTCF3EXug)
+
 # Backend
 
 ## Java

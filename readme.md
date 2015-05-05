@@ -27,6 +27,9 @@ A list of styleguides
 * [Recess](http://twitter.github.io/recess/)
 * [Structure and Organization](http://webdesignledger.com/tips/tips-for-organized-css-stylesheets)
 
+## CSS Animations
+* [CSS Animation Generator](https://coveloping.com/tools/css-animation-generator)
+
 ### SASS
 * [CSS-Tricks](http://css-tricks.com/sass-style-guide/)
 * [Sass Guidelines](http://sass-guidelin.es/)

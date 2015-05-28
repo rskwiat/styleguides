@@ -34,7 +34,7 @@ A list of styleguides
 * [CSS-Tricks](http://css-tricks.com/sass-style-guide/)
 * [Sass Guidelines](http://sass-guidelin.es/)
 
-## HTML 
+## HTML
 * [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 * [Github](http://primercss.io/guidelines/#html)
 * [Code Guide @mdo](http://codeguide.co/)
@@ -42,6 +42,7 @@ A list of styleguides
 
 ## Accessibility
 * [Mozilla Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+* [Practical ARIA Examples](http://heydonworks.com/practical_aria_examples/)
 
 ## Javascript
 * [AirBnB](https://github.com/airbnb/javascript)
@@ -82,7 +83,7 @@ A list of styleguides
 
 ### HTTP Design
 * [http-api-design](https://github.com/interagent/http-api-design)
- 
+
 ### JSON
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/jsoncstyleguide.xml)
 
@@ -123,7 +124,7 @@ A list of styleguides
 
 ## nGinx
 * [Personal Configurations](https://gist.github.com/rskwiat/6652504)
-* 
+*
 
 ## Objective-C
 * [GitHub](https://github.com/github/objective-c-style-guide)
@@ -177,4 +178,3 @@ A list of styleguides
 * [r/programmerhumor](http://www.reddit.com/r/programmerhumor)
 * [r/reactjs](http://www.reddit.com/r/reactjs)
 * [r/emberjs](http://www.reddit.com/r/emberjs)
-

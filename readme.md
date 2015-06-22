@@ -55,6 +55,10 @@ A list of styleguides
 * [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide)
 * [Recess - Property Order](https://github.com/twitter/recess/blob/master/lib/lint/strict-property-order.js)
 
+## ES6
+*[https://github.com/addyosmani/es6-tools] Addy Osmani ES6 Tools
+*[https://github.com/lukehoban/es6features] Luke Hoban ES6 Features
+
 ## ReactJS
 * [ReactJS Patterns](https://reactjsnews.com/react-style-guide-patterns-i-like/)
 * [Getting Started Guides](http://facebook.github.io/react/docs/getting-started.html)

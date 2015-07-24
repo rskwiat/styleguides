@@ -26,6 +26,7 @@ A list of styleguides
 * [Heroku](http://purple.herokuapp.com/#)
 * [Recess](http://twitter.github.io/recess/)
 * [Structure and Organization](http://webdesignledger.com/tips/tips-for-organized-css-stylesheets)
+* [CSS Comb](http://csscomb.com/)
 
 ## CSS Animations
 * [CSS Animation Generator](https://coveloping.com/tools/css-animation-generator)

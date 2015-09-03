@@ -77,7 +77,7 @@ A list of styleguides
 * [mgechev's community best practices](https://github.com/mgechev/angularjs-style-guide)
 * [srph's AngularJS structure sg](https://github.com/srph/angularjs-structure-styleguide)
 * [Todd Motto's for AngularJS](https://github.com/toddmotto/angularjs-styleguide)  
-  * [jmcunningham's fork](https://github.com/jmcunningham/angularjs-styleguide)
+* [jmcunningham's fork](https://github.com/jmcunningham/angularjs-styleguide)
 
 ### EmberJS
 * [EmberJS](https://github.com/emberjs/ember.js/blob/master/STYLEGUIDE.md)
@@ -113,14 +113,7 @@ A list of styleguides
 * [Android](http://source.android.com/source/code-style.html)
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
 * [Sun](http://javascript.crockford.com/javacodeconventions.pdf)
-
-## iOS
-* [Cocoa Pods](http://cocoapods.org/)
-* [Cocoa Controls](https://www.cocoacontrols.com/)
-
-## Lisp
-* [emacs-lips-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide)
-
+* 
 ## Express
 * [Express Main Site](http://expressjs.com/)
 * [Express API](http://expressjs.com/4x/api.html)
@@ -129,12 +122,6 @@ A list of styleguides
 
 ## nGinx
 * [Personal Configurations](https://gist.github.com/rskwiat/6652504)
-*
-
-## Objective-C
-* [GitHub](https://github.com/github/objective-c-style-guide)
-* [NYTimes](https://github.com/NYTimes/objective-c-style-guide)
-* [raywenderlich](https://github.com/raywenderlich/objective-c-style-guide)
 
 ## Python
 * [Google](https://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
@@ -149,10 +136,24 @@ A list of styleguides
 ### Ruby on Rails
 * [bbastov's Ruby on Rails 4 styleguide](https://github.com/bbatsov/rails-style-guide)
 
+# iOS Development
+
+## Objective-C
+* [GitHub](https://github.com/github/objective-c-style-guide)
+* [NYTimes](https://github.com/NYTimes/objective-c-style-guide)
+* [raywenderlich](https://github.com/raywenderlich/objective-c-style-guide)
+
+## iOS
+* [Cocoa Pods](http://cocoapods.org/)
+* [Cocoa Controls](https://www.cocoacontrols.com/)
+
 ## Swift
+* [Swift Programming](https://medium.com/swift-programming)
 * [GitHub](https://github.com/github/swift-style-guide)
 * [raywenderlich](https://github.com/raywenderlich/swift-style-guide)
 * [SlideShareInc](https://github.com/SlideShareInc/swift-style-guide)
+* [App Development in Swift](https://swifteducation.github.io/teaching_app_development_with_swift/)
+* [Facebook SDK Login](http://www.brianjcoleman.com/tutorial-how-to-use-login-in-facebook-sdk-4-0-for-swift/)
 
 # Design Related
 * [Pixelmator - Getting Started](http://www.pixelmator.com/tutorials/get-started/)

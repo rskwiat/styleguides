@@ -15,6 +15,7 @@ A list of styleguides
 ## Generic
 * [Frontend Guidelines](https://github.com/bendc/frontend-guidelines)
 * [Baseline for FE Devs](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/)
+* [JS Guidelines](https://github.com/wearehive/project-guidelines)
 
 ## CSS
 * [CSSWizardry](http://csswizardry.com/2012/04/my-html-css-coding-style/)
@@ -28,8 +29,11 @@ A list of styleguides
 * [Structure and Organization](http://webdesignledger.com/tips/tips-for-organized-css-stylesheets)
 * [CSS Comb](http://csscomb.com/)
 
-## CSS Animations
+## Animation
 * [CSS Animation Generator](https://coveloping.com/tools/css-animation-generator)
+* [Bezier Curve](http://cubic-bezier.com/#.17,.67,.83,.67)
+* [GreenSock](https://ihatetomatoes.net/wp-content/uploads/2016/07/GreenSock-Cheatsheet-4.pdf)
+* [Animate.css](https://daneden.github.io/animate.css/)
 
 ### SASS
 * [CSS-Tricks](http://css-tricks.com/sass-style-guide/)
@@ -57,8 +61,9 @@ A list of styleguides
 * [Recess - Property Order](https://github.com/twitter/recess/blob/master/lib/lint/strict-property-order.js)
 
 ## ES6
-*[https://github.com/addyosmani/es6-tools] Addy Osmani ES6 Tools
-*[https://github.com/lukehoban/es6features] Luke Hoban ES6 Features
+* [Addy Osmani ES6 Tools](https://github.com/addyosmani/es6-tools)
+* [Luke Hoban ES6 Features](https://github.com/lukehoban/es6features)
+* [Babel](https://babeljs.io)
 
 ## ReactJS
 * [ReactJS Patterns](https://reactjsnews.com/react-style-guide-patterns-i-like/)
@@ -69,22 +74,8 @@ A list of styleguides
 * [Flux Overview](http://facebook.github.io/flux/docs/overview.html)
 * [Scotch.io React Tutorial](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
 * [React Native](http://facebook.github.io/react-native/)
-
-### AngularJS
-* [gocardless](https://github.com/gocardless/angularjs-style-guide)
-* [Google](https://google-styleguide.googlecode.com/svn/trunk/angularjs-google-style.html)
-* [johnpapa's opinionated sg for  AngularJS](https://github.com/johnpapa/angularjs-styleguide)
-* [mgechev's community best practices](https://github.com/mgechev/angularjs-style-guide)
-* [srph's AngularJS structure sg](https://github.com/srph/angularjs-structure-styleguide)
-* [Todd Motto's for AngularJS](https://github.com/toddmotto/angularjs-styleguide)  
-* [jmcunningham's fork](https://github.com/jmcunningham/angularjs-styleguide)
-
-### EmberJS
-* [EmberJS](https://github.com/emberjs/ember.js/blob/master/STYLEGUIDE.md)
-* [EmberCLI Installer](http://www.ember-cli.com/)
-
-### CoffeeScript
-* [Polarmobile](https://github.com/polarmobile/coffeescript-style-guide)
+* [React Native Expo](http://expo.io)
+* [React Native Elements App](https://github.com/react-native-training/react-native-elements)
 
 ### HTTP Design
 * [http-api-design](https://github.com/interagent/http-api-design)
@@ -103,17 +94,19 @@ A list of styleguides
 
 ## Webpack
 * [Instagram's best Practices](https://github.com/petehunt/webpack-howto)
+* [WebPack 2 Docs](https://webpack.js.org)
+
+## WebVR
+* [Aframe](https://aframe.io)
+* [WebVR Docs](https://webvr.info)
+* [WebVR Rocks](https://webvr.rocks)
+* [React VR](https://facebook.github.io/react-vr/)
 
 # Testing
 * [WebDriver and Selenium Talk - Matthew Smith](https://www.youtube.com/watch?v=mZOTCF3EXug)
 
 # Backend
 
-## Java
-* [Android](http://source.android.com/source/code-style.html)
-* [Google](https://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
-* [Sun](http://javascript.crockford.com/javacodeconventions.pdf)
-* 
 ## Express
 * [Express Main Site](http://expressjs.com/)
 * [Express API](http://expressjs.com/4x/api.html)
@@ -130,18 +123,7 @@ A list of styleguides
 * [Fabric - Basic Connect Script](https://gist.github.com/rskwiat/bcae3826748a5646abf6)
 * [Tango with Django](http://www.tangowithdjango.com)
 
-## Ruby
-* [bbatsov](https://github.com/bbatsov/ruby-style-guide)
-
-### Ruby on Rails
-* [bbastov's Ruby on Rails 4 styleguide](https://github.com/bbatsov/rails-style-guide)
-
 # iOS Development
-
-## Objective-C
-* [GitHub](https://github.com/github/objective-c-style-guide)
-* [NYTimes](https://github.com/NYTimes/objective-c-style-guide)
-* [raywenderlich](https://github.com/raywenderlich/objective-c-style-guide)
 
 ## iOS
 * [Cocoa Pods](http://cocoapods.org/)
@@ -160,10 +142,12 @@ A list of styleguides
 * [Sketch Tricks](https://medium.com/sketch-tricks)
 * [Sketch Land](http://sketch.land/)
 * [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory)
+* [How not to suck at design](https://medium.com/startup-grind/how-to-not-suck-at-design-a-5-minute-guide-for-the-non-designer-291efac43037)
 
 # Static Site Generators
 * [Winter Smith](http://wintersmith.io/)
 * [Assemble](http://assemble.io/)
+* [Gatsby](https://github.com/gatsbyjs/gatsby)
 
 # Subreddits
 * [r/webdev](http://www.reddit.com/r/webdev)

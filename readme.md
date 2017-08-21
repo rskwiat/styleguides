@@ -72,10 +72,12 @@ A list of styleguides
 * [React Practices and Conventions](https://web-design-weekly.com/2015/01/29/opinionated-guide-react-js-best-practices-conventions/)
 * [JS Fiddle Demo](http://jsfiddle.net/reactjs/69z2wepo/)
 * [Flux Overview](http://facebook.github.io/flux/docs/overview.html)
+* [Redux](http://redux.js.org/)
 * [Scotch.io React Tutorial](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
 * [React Native](http://facebook.github.io/react-native/)
 * [React Native Expo](http://expo.io)
 * [React Native Elements App](https://github.com/react-native-training/react-native-elements)
+* [React Higher Order Components](https://github.com/deepsweet/hocs)
 
 ### HTTP Design
 * [http-api-design](https://github.com/interagent/http-api-design)
@@ -137,11 +139,19 @@ A list of styleguides
 * [App Development in Swift](https://swifteducation.github.io/teaching_app_development_with_swift/)
 * [Facebook SDK Login](http://www.brianjcoleman.com/tutorial-how-to-use-login-in-facebook-sdk-4-0-for-swift/)
 
-# Design Related
-* [Pixelmator - Getting Started](http://www.pixelmator.com/tutorials/get-started/)
+# Sketch App
+* http://sketchtoolbox.com/
 * [Sketch Tricks](https://medium.com/sketch-tricks)
 * [Sketch Land](http://sketch.land/)
 * [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory)
+* [Zeplin](https://zeplin.io/)
+* [Craft](https://www.invisionapp.com/craft)
+* [Compo Sketch](https://evilmartians.com/chronicles/compo-sketch)
+* [Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory)
+
+# Design Related
+* [Pixelmator - Getting Started](http://www.pixelmator.com/tutorials/get-started/)
+
 * [How not to suck at design](https://medium.com/startup-grind/how-to-not-suck-at-design-a-5-minute-guide-for-the-non-designer-291efac43037)
 
 # Static Site Generators

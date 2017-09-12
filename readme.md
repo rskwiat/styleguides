@@ -98,6 +98,10 @@ A list of styleguides
 * [Instagram's best Practices](https://github.com/petehunt/webpack-howto)
 * [WebPack 2 Docs](https://webpack.js.org)
 
+## Webpack Plugins
+* [Git Revision](https://www.npmjs.com/package/git-revision-webpack-plugin)
+* [Progress Bar](https://www.npmjs.com/package/progress-bar-webpack-plugin)
+
 ## WebVR
 * [Aframe](https://aframe.io)
 * [WebVR Docs](https://webvr.info)
@@ -149,8 +153,13 @@ A list of styleguides
 * [Compo Sketch](https://evilmartians.com/chronicles/compo-sketch)
 * [Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory)
 
+# Figma
+* [Figma](https://www.figma.com/)
+
+
 # Design Related
 * [Pixelmator - Getting Started](http://www.pixelmator.com/tutorials/get-started/)
+* [SVG Can do that?!](http://slides.com/sdrasner/svg-can-do-that#/)
 
 * [How not to suck at design](https://medium.com/startup-grind/how-to-not-suck-at-design-a-5-minute-guide-for-the-non-designer-291efac43037)
 

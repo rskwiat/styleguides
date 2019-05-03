@@ -96,7 +96,7 @@ A list of styleguides
 
 ## Webpack
 * [Instagram's best Practices](https://github.com/petehunt/webpack-howto)
-* [WebPack 2 Docs](https://webpack.js.org)
+* [WebPack Docs](https://webpack.js.org)
 
 ## Webpack Plugins
 * [Git Revision](https://www.npmjs.com/package/git-revision-webpack-plugin)
@@ -119,7 +119,7 @@ A list of styleguides
 * [NPM Express App Generator](http://expressjs.com/starter/generator.html)
 * [Express Security Tips](http://webapplog.com/express-js-security-tips/)
 
-## nGinx
+## Nginx
 * [Personal Configurations](https://gist.github.com/rskwiat/6652504)
 
 ## Python
@@ -144,7 +144,7 @@ A list of styleguides
 * [Facebook SDK Login](http://www.brianjcoleman.com/tutorial-how-to-use-login-in-facebook-sdk-4-0-for-swift/)
 
 # Sketch App
-* http://sketchtoolbox.com/
+* [Sketch Tool Box](http://sketchtoolbox.com/)
 * [Sketch Tricks](https://medium.com/sketch-tricks)
 * [Sketch Land](http://sketch.land/)
 * [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory)
@@ -156,7 +156,6 @@ A list of styleguides
 # Figma
 * [Figma](https://www.figma.com/)
 
-
 # Design Related
 * [Pixelmator - Getting Started](http://www.pixelmator.com/tutorials/get-started/)
 * [SVG Can do that?!](http://slides.com/sdrasner/svg-can-do-that#/)
@@ -165,6 +164,8 @@ A list of styleguides
 
 # Static Site Generators
 * [Winter Smith](http://wintersmith.io/)
+* [Hugo](https://gohugo.io/)
+* [Jekyll](https://jekyllrb.com/)
 * [Assemble](http://assemble.io/)
 * [Gatsby](https://github.com/gatsbyjs/gatsby)
 
@@ -175,9 +176,7 @@ A list of styleguides
 * [r/web_design](http://www.reddit.com/r/web_design)
 * [r/userexperience](http://www.reddit.com/r/userexperience)
 * [r/css](http://www.reddit.com/r/css)
-* [r/jquery](http://www.reddit.com/r/jquery)
 * [r/HTML5](http://www.reddit.com/r/HTML5)
-* [r/web_development](http://www.reddit.com/r/web_development)
 * [r/webapps](http://www.reddit.com/r/webapps)
 * [r/design](http://www.reddit.com/r/design)
 * [r/wordpress](http://www.reddit.com/r/wordpress)
@@ -186,4 +185,3 @@ A list of styleguides
 * [r/devops](http://www.reddit.com/r/devops)
 * [r/programmerhumor](http://www.reddit.com/r/programmerhumor)
 * [r/reactjs](http://www.reddit.com/r/reactjs)
-* [r/emberjs](http://www.reddit.com/r/emberjs)

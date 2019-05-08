@@ -163,6 +163,7 @@ A list of styleguides
 * [How not to suck at design](https://medium.com/startup-grind/how-to-not-suck-at-design-a-5-minute-guide-for-the-non-designer-291efac43037)
 
 # Static Site Generators
+* [Eleventy](https://www.11ty.io/)
 * [Winter Smith](http://wintersmith.io/)
 * [Hugo](https://gohugo.io/)
 * [Jekyll](https://jekyllrb.com/)

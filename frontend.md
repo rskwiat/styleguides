@@ -62,6 +62,7 @@
 * [Redux](http://redux.js.org/)
 * [Scotch.io React Tutorial](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
 * [React Higher Order Components](https://github.com/deepsweet/hocs)
+* [CRA w/ Express](https://www.freecodecamp.org/news/how-to-make-create-react-app-work-with-a-node-backend-api-7c5c48acb1b0/)
 
 ### HTTP Design
 * [http-api-design](https://github.com/interagent/http-api-design)

@@ -22,3 +22,6 @@
 ### Webpack Plugins
 * [Git Revision](https://www.npmjs.com/package/git-revision-webpack-plugin)
 * [Progress Bar](https://www.npmjs.com/package/progress-bar-webpack-plugin)
+
+### Formatting Tools
+* [Prettier](https://prettier.io/)

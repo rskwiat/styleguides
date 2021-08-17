@@ -32,6 +32,9 @@
 * [Code Guide @mdo](http://codeguide.co/)
 * [HTML5 Boilerplate](https://html5boilerplate.com/)
 
+### TypeScript
+* [TS Package to NPM](https://cameronnokes.com/blog/the-30-second-guide-to-publishing-a-typescript-package-to-npm/)
+
 ### Accessibility
 * [Mozilla Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 * [Practical ARIA Examples](http://heydonworks.com/practical_aria_examples/)
